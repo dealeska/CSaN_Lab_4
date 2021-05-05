@@ -1,0 +1,7 @@
+D:\С#\CSaN_Lab_4\CSaN_Lab_4\obj\Debug\CSaN_Lab_4.csprojAssemblyReference.cache
+D:\С#\CSaN_Lab_4\CSaN_Lab_4\obj\Debug\CSaN_Lab_4.csproj.CoreCompileInputs.cache
+D:\С#\CSaN_Lab_4\CSaN_Lab_4\bin\Debug\CSaN_Lab_4.exe.config
+D:\С#\CSaN_Lab_4\CSaN_Lab_4\bin\Debug\CSaN_Lab_4.exe
+D:\С#\CSaN_Lab_4\CSaN_Lab_4\bin\Debug\CSaN_Lab_4.pdb
+D:\С#\CSaN_Lab_4\CSaN_Lab_4\obj\Debug\CSaN_Lab_4.exe
+D:\С#\CSaN_Lab_4\CSaN_Lab_4\obj\Debug\CSaN_Lab_4.pdb
